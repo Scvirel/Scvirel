@@ -14,8 +14,8 @@ I'm [Your Name], a [Your Role/Title] passionate about [Your Interests].
 
 ## 📫 How to Reach Me
 
-- [LinkedIn]([https://example.com](https://www.linkedin.com/in/vladyslav-synhaivskyi-ab043a1a1/))
-- [Email](ScvirelVlad@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/vladyslav-synhaivskyi-ab043a1a1/)
+- Email [ScvirelVlad@gmail.com]
 
 ## 📊 GitHub Stats
 
