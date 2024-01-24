@@ -19,10 +19,4 @@ I'm [Your Name], a [Your Role/Title] passionate about [Your Interests].
 
 ## 📊 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🌐 Find Me Online
-
-- [Personal Website/Blog]
-- [Dev.to Profile]
-- [Other Social Media Profiles]
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Scvirel&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
