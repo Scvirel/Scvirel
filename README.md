@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**Scvirel/Scvirel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Your Name], a [Your Role/Title] passionate about [Your Interests].
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming Languages: [List the languages you work with]
+- Frameworks & Libraries: [List any frameworks or libraries you frequently use]
+- Tools & Platforms: [List development tools or platforms you are familiar with]
+
+## 🌱 Currently Learning
+
+[List any technologies or skills you are currently learning or exploring]
+
+## 📫 How to Reach Me
+
+- LinkedIn: [Your LinkedIn Profile]
+- Twitter: [Your Twitter Handle]
+- Email: [Your Email]
+
+## 📊 GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🌐 Find Me Online
+
+- [Personal Website/Blog]
+- [Dev.to Profile]
+- [Other Social Media Profiles]
