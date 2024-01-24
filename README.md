@@ -15,7 +15,6 @@ I'm [Your Name], a [Your Role/Title] passionate about [Your Interests].
 ## 📫 How to Reach Me
 
 - LinkedIn: [Your LinkedIn Profile]
-- Twitter: [Your Twitter Handle]
 - Email: [Your Email]
 
 ## 📊 GitHub Stats
