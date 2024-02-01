@@ -13,17 +13,17 @@
   
   <!-- Stats -->
   <div style="padding: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Scvirel&show_icons=true&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api?username=Scvirel&show_icons=true&theme=radical&border_color=ff3686">
   </div>
 
   <!-- Streak -->
   <div style="padding: 10px;">
-    <img src="https://github-readme-streak-stats-fyclg7hvg-trinib.vercel.app/?user=Scvirel&theme=radical&border=599200">
+    <img src="https://github-readme-streak-stats-fyclg7hvg-trinib.vercel.app/?user=Scvirel&theme=radical&border=ff3686">
   </div>
   
   <!-- Languages -->
   <div style="padding: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scvirel&layout=compact&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scvirel&layout=compact&theme=radical&border_color=ff3686">
   </div>
 </div>
 
