@@ -15,6 +15,11 @@
   <div style="padding: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Scvirel&show_icons=true&theme=radical">
   </div>
+
+  <!-- Streak -->
+  <div style="padding: 10px;">
+    <img src="https://github-readme-streak-stats-fyclg7hvg-trinib.vercel.app/?user=Scvirel&theme=radical&border=599200">
+  </div>
   
   <!-- Languages -->
   <div style="padding: 10px;">
