@@ -1,28 +1,26 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=db0755&size=24&center=true&vCenter=true&width=380&lines=W+E+L+C+O+M+E%21" alt="Typing Animation">
-</p>
-![g](https://github.com/Scvirel/Scvirel/blob/master/Sasori.gif?raw=true)
+<div align="center">
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=ff3686&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+  </p>
+</div>
+<div align="center">
+    <img src="https://github.com/Scvirel/Scvirel/blob/master/Sasori.gif">
+</div>
 
+<!-- GitHub Stats and Languages -->
+<div align="center" style="display: flex; align-items: center; justify-content: center; height: 200px;">
+  <p>Stats and Languages</p>
+  
+  <!-- Stats -->
+  <div style="padding: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Scvirel&show_icons=true&theme=radical">
+  </div>
+  
+  <!-- Languages -->
+  <div style="padding: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scvirel&layout=compact&theme=radical">
+  </div>
+</div>
 
-## About Me 🚀
-
-## GitHub Stats 📊
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Scvirel&show_icons=true&theme=radical)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Scvirel&layout=compact&theme=radical)
-
-## Tech Stack 💻
-
-- Languages: 
-- Frameworks: 
-- Databases: 
-- Tools: 
-
-## Let's Connect! 🤝
-
-Feel free to connect with me on social media or drop me an email. I'm always open to interesting conversations and collaborations!
-
-[LinkedIn](Your LinkedIn) | [Email](Your Email)
-
-Thanks for visiting! Happy coding! 🚀
-
+<!-- Profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green)
