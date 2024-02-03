@@ -27,5 +27,9 @@
   </div>
 </div>
 
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=Scvirel&color=green)
+<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Scvirel&theme=radical&color=ff3686&line=00d668&point=8b007e" width="100%">
+
+<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Scvirel&color=ff3686&style=for-the-badge">
