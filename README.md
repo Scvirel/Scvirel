@@ -28,7 +28,7 @@
 </div>
 
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Scvirel&theme=radical&color=ff3686&line=00d668&point=8b007e" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Scvirel&theme=radical&color=ff3686&line=ff3686&point=ff3686" width="100%">
 
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
