@@ -1,30 +1,33 @@
 <div align="center">
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=ff3686&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
-  </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=ff3686&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 </div>
 
-<!-- GitHub Stats and Languages -->
-<div align="center" style="display: flex; align-items: center; justify-content: center; height: 200px;">
-  <p>Stats and Languages</p>
-  
-  <!-- Stats -->
-  <div style="padding: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Scvirel&show_icons=true&theme=radical&border_color=ff3686">
-  </div>
+# 🛠 Tech Stack
 
-  <!-- Streak -->
-  <!--<div style="padding: 10px;"><img src="https://github-readme-streak-stats-fyclg7hvg-trinib.vercel.app/?user=Scvirel&theme=radical&border=ff3686"></div>-->
-  
-  <!-- Languages -->
-  <div style="padding: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scvirel&layout=compact&theme=radical&border_color=ff3686">
-  </div>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,cs,unity,unreal,git,github,visualstudio,vscode" />
 </div>
 
-<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<div align="center">
+<img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=c-sharp&logoColor=239120"/>
+<img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unreal_Engine-111111?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+</div>
+
+
+
+
+# 📈 GitHub Activity
+
+<div align="center">
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=Scvirel&theme=radical&hide_border=true&background=0D1117" width="49%">
+</div>
+
+<div align="center">
+<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scvirel&theme=radical" width="100%">
-
-<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<p align="center">
+<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=Scvirel&color=ff3686&style=for-the-badge">
+</div>
